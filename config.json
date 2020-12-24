@@ -1,10 +1,5 @@
 {
-  "TOKEN": "",
-  "AUTH": {
-    "ENABLE": false,
-    "PASSWORD": "",
-    "USERS": []
-  },
-  "SPOTDL_DOWNLOADER": true,
-  "SPOTIFYDL_DOWNLOADER": false
+  "TOKEN": "1071332657:AAE2CRuHNiFchkr8bCFnelJpt-SHeafq2-g", "AUTH": {"ENABLE": true, "PASSWORD": "HelloF@rzad", "USERS": [264187079]},
+  "SPOTDL_DOWNLOADER": false,
+  "SPOTIFYDL_DOWNLOADER": true
 }
